@@ -1,3 +1,13 @@
+# [7.0.0](https://github.com/gatheround/react-sortablejs/compare/v6.0.0...v7.0.0) (2022-01-05)
+
+
+* upgrade React to 17.0.2 ([bfa7470](https://github.com/gatheround/react-sortablejs/commit/bfa74704f466cf00cf112825dcfd6c36041a022e))
+
+
+### BREAKING CHANGES
+
+* - upgrade React to new major version
+
 # [6.0.0](https://github.com/SortableJS/react-sortablejs/compare/v5.0.5...v6.0.0) (2020-09-27)
 
 
