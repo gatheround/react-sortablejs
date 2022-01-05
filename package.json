@@ -7,6 +7,10 @@
   },
   "license": "MIT",
   "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
   "files": [
     "dist"
   ],
